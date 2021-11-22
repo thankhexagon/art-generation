@@ -1,0 +1,65 @@
+{
+    "layers": [
+        {
+            "name": "background",
+            "values": {
+                "beige": 20,
+                "blue": 20,
+                "brown": 20
+            }
+        },
+        {
+            "name": "rice",
+            "values": {
+                "white": 100
+            }
+        },
+        {
+            "name": "cheeks",
+            "values": {
+                "none": 50,
+                "regular-pink": 50
+            }
+        },
+        {
+            "name": "eyes",
+            "values": {
+                "arrows-inward": 10,
+                "closed": 20,
+                "cute": 10,
+                "flat": 20,
+                "happy": 30,
+                "looking-left": 10
+            }
+        },
+        {
+            "name": "mouth",
+            "values": {
+                "cute": 20,
+                "kissing": 20,
+                "smile": 40,
+                "w": 20
+            }
+        },
+        {
+            "name": "front",
+            "values": {
+                "nori": 70,
+                "egg": 15,
+                "ume": 15
+            }
+        },
+        {
+            "name": "headpiece",
+            "values": {
+                "angel": 5,
+                "hearts": 5,
+                "ikura": 10,
+                "none": 25,
+                "rainbow-hat": 5,
+                "ume": 10,
+                "yellow-hat": 5
+            }
+        }
+    ]
+}
