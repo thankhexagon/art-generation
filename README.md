@@ -46,3 +46,9 @@ In this example, all NFTs will have either a beige, blue, or brown background. T
 If sometimes you do not want any value for this attribute, you can use the keyword `none`.
 
 Use [config.json](config.json) as a reference for a fully complete configuration file.
+
+4. Update the metadata template with your desired metadata
+
+The metadata template, [metadata_template.json](metadata_template.json), is based on the official [Metaplex documentation](https://docs.metaplex.com/nft-standard).
+
+Note that `seller_fee_basis_points` only refers to the royalties given to creators when your NFTs are sold on secondary marketplaces. The mint price of your NFT is configured using [Candy Machine](https://github.com/exiled-apes/candy-machine-mint).

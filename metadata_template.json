@@ -1,0 +1,30 @@
+{
+   "name":"Onigiri NFT #000",
+   "symbol":"ONIGIRI",
+   "seller_fee_basis_points":700,
+   "image":"image.png",
+   "attributes":[],
+   "collection":{
+      "name":"Ongiri Town NFT v1",
+      "family":"Ongiri Town NFTs"
+   },
+   "properties":{
+      "files":[
+         {
+            "uri":"image.png",
+            "type":"image/png"
+         }
+      ],
+      "category":"image",
+      "creators":[
+         {
+            "address":"6jxSj5N1YZcVirEdt7Y5qQehg5JyWLtz7vfXRTJyZDf9",
+            "share":50
+         },
+         {
+            "address":"36j6GJGCFsZpETUejGEVYS6d7SBtvuLX1wBXn7X4QawZ",
+            "share":50
+         }
+      ]
+   }
+}
