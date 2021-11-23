@@ -52,3 +52,12 @@ Use [config.json](config.json) as a reference for a fully complete configuration
 The metadata template, [metadata_template.json](metadata_template.json), is based on the official [Metaplex documentation](https://docs.metaplex.com/nft-standard).
 
 Note that `seller_fee_basis_points` only refers to the royalties given to creators when your NFTs are sold on secondary marketplaces. The mint price of your NFT is configured using [Candy Machine](https://github.com/exiled-apes/candy-machine-mint).
+
+5. Generate your NFTs
+
+```bash
+$ python generate.py 100
+```
+
+The only argument required is an integer representing the number of images you want to create. All metadata and images will be saved to the `assets` folder (which will be created if it doesn't already exist).
+
